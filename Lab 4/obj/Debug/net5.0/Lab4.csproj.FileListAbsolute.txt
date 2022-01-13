@@ -1,0 +1,16 @@
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.exe
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.deps.json
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.dll
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\ref\Lab4.dll
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.pdb
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.csproj.AssemblyReference.cache
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.dll
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\ref\Lab4.dll
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.pdb
+D:\UBB\An III\Sem 1\Parallel and Distributed programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache
